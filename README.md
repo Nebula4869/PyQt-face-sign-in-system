@@ -1,4 +1,4 @@
-# face_sign_in_system_PyQt
+# PyQt-face-sign-in-system
 
 Face sign in system GUI based on FaceNet and PyQt
 
